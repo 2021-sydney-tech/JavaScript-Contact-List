@@ -1,0 +1,11 @@
+
+.wrapper {
+    min-height: 100vh;
+    background-image: url("amber-kipp-1hRtZo55-DE-unsplash.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(13, 132, 187);
+}
+
+

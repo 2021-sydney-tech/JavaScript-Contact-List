@@ -1,0 +1,11 @@
+Sources:
+
+imdb api
+
+Bootstrap: form, card: Images, dropdowns: Menu items, sizing, select: Default, 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+https://randomuser.me/documentation
+
+https://unsplash.com/
